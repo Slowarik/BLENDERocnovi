@@ -93,7 +93,7 @@ background-color:#ffc0cb
 <br>
 <span>Каждый редактор в Blender разделён на регионы. Регионы могут иметь более мелкие элементы структурирования, такие как вкладки и панели с кнопками, элементами управления и виджетами, расположенными внутри них.</span>
 <br>
-<img src="https://docs.blender.org/manual/ru/latest/_images/interface_window-system_regions_3d-view.png" alt="region"  width=800" heiht="600"/>">
+<img src="https://docs.blender.org/manual/ru/latest/_images/interface_window-system_introduction_default-startup.png" alt="Kaka" width=800" heiht="600" style="margin-left: 100px;"/">
 <br><br>
 <span>Заголовок (зелёный).Основная область (жёлтый).Панель инструментов (синий).Боковая панель (красный).Панель настроек последней операции (розовая).</span>
 <br><br>
